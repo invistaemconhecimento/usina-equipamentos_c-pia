@@ -385,6 +385,7 @@ const APP_CONFIG = {
     
     // Responsáveis pelas pendências
     responsaveis: [
+        "Operação",
         "Elétrica",
         "Instrumentação",
         "Mecânica",
